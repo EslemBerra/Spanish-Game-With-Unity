@@ -9,3 +9,13 @@ Words Spy is a fun and educational word puzzle game where players improve their 
 <img width="260" height="420" alt="image" src="https://github.com/user-attachments/assets/fe2d623b-b209-44bd-916c-2a0f27321e87" />
 
 <b>Settings Screen</b>
+
+
+<img width="447" height="797" alt="image" src="https://github.com/user-attachments/assets/9b5c10d5-5b1a-45de-9ac4-fed9b6b19a8a" />
+
+<b>Category Screen</b>
+
+
+<img width="447" height="797" alt="image" src="https://github.com/user-attachments/assets/c678a0b3-4635-4975-bd79-3c6e49e1427e" />
+
+<b>Game Scene</b>
